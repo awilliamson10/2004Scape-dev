@@ -86,7 +86,7 @@ const config: Config = {
           label: 'Documentation',
         },
         {
-          href: 'https://github.com/2004Scape/Server',
+          href: 'https://github.com/awilliamson10/2004Scape-dev',
           label: 'GitHub',
           position: 'right',
         },
