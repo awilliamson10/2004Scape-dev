@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Component Architecture
 
-This document provides detailed information about the major components of the Lost City Server and how they interact with each other.
+This document provides detailed information about the major components of the 2004Scape Server and how they interact with each other.
 
 ## Core Components
 

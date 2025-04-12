@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Network Protocol
 
-This document describes the network protocol used by the Lost City Server for client-server communication, including packet structure, encoding, and handling.
+This document describes the network protocol used by the 2004Scape Server for client-server communication, including packet structure, encoding, and handling.
 
 ## Overview
 

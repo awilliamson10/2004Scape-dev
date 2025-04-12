@@ -61,6 +61,6 @@ Before submitting your changes:
 
 If you need help with contributing:
 
-- Ask questions in our [Discord server](https://discord.gg/UZXdsTmuEs)
-- Post on our [forums](https://lostcity.rs/)
+- Ask questions in the [Discord server](https://discord.gg/UZXdsTmuEs)
+- Post on the [forums](https://lostcity.rs/)
 - Comment on the relevant GitHub issue

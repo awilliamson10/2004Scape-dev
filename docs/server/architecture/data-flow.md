@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Data Flow Architecture
 
-This document explains how data flows through the Lost City Server system during different operations and gameplay scenarios.
+This document explains how data flows through the 2004Scape Server system during different operations and gameplay scenarios.
 
 ## Player Action Flow
 

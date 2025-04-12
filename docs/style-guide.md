@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Documentation Style Guide
 
-This guide outlines the documentation standards for the Lost City Server project. Following these guidelines ensures consistency across all documentation and makes it easier for contributors to understand and use the codebase.
+This guide outlines the documentation standards for the project. Following these guidelines ensures consistency across all documentation and makes it easier for contributors to understand and use the codebase.
 
 ## Writing Style
 

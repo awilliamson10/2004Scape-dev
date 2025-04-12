@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Architecture Overview
 
-This document provides a high-level overview of the Lost City Server architecture, illustrating how different components interact to create a complete RuneScape 2 emulation system.
+This document provides a high-level overview of the 2004Scape Server architecture, illustrating how different components interact to create a complete RuneScape 2 emulation system.
 
 ## System Architecture
 
-The Lost City Server is built using a modular architecture that separates concerns and allows different components to evolve independently. The diagram below shows the main systems and their relationships:
+The 2004Scape Server is built using a modular architecture that separates concerns and allows different components to evolve independently. The diagram below shows the main systems and their relationships:
 
 ```mermaid
 flowchart TD
@@ -171,7 +171,7 @@ flowchart TD
 
 ## Technical Stack
 
-The Lost City Server is built using the following technologies:
+The 2004Scape Server is built using the following technologies:
 
 | Component | Technology |
 |-----------|------------|

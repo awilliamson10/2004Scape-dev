@@ -2,19 +2,9 @@
 sidebar_position: 1
 ---
 
-# Welcome to 2004Scape
+# 2004Scape Developer Documentation
 
-**2004Scape** is an open-source RuneScape 2 emulation project that aims to recreate the game as it was in May 18, 2004. This documentation will help you get started with contributing to the project.
-
-## About the Project
-
-2004Scape is a community-driven project dedicated to preserving and recreating a specific version of RuneScape's history. Our goal is to emulate the game with historical accuracy while providing a platform for learning and collaboration.
-
-The project consists of several components:
-- Server emulation (written in TypeScript)
-- Game client compatibility
-- Content recreation
-- Tool development
+**2004Scape Dev** is an attempt to create an unofficial developer documentation source for the LostCity RuneScape 2 emulation project. This documentation will help you get started with contributing to the project.
 
 ## Getting Started
 

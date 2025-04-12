@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Game Engine
 
-This document describes the core game engine system of the Lost City Server, including its architecture, components, and how it manages the game simulation.
+This document describes the core game engine system of the 2004Scape Server, including its architecture, components, and how it manages the game simulation.
 
 ## Overview
 

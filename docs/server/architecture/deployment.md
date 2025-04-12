@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Deployment Architecture
 
-This document describes how the Lost City Server can be deployed in different environments and configurations.
+This document describes how the 2004Scape Server can be deployed in different environments and configurations.
 
 ## Development Environment
 

@@ -8,7 +8,7 @@ The 2004Scape server is a TypeScript implementation of a RuneScape 2 emulation s
 
 ## Purpose
 
-The Lost City Server aims to:
+The Lost City 2004Scape Server aims to:
 1. Provide an accurate emulation of RuneScape 2 as it existed in May 2004
 2. Create a modular, extensible codebase that can be easily maintained and enhanced
 3. Support both original and custom game content through the RuneScript language

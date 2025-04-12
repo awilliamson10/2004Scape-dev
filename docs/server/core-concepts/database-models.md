@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Database Models
 
-This document describes the database schema and models used in the Lost City Server for persisting player and game data.
+This document describes the database schema and models used in the 2004Scape Server for persisting player and game data.
 
 ## Overview
 
