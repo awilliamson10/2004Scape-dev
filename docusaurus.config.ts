@@ -41,9 +41,6 @@ const config: Config = {
   // Specify Mermaid as a theme
   themes: ['@docusaurus/theme-mermaid'],
 
-  // Make sure static assets are properly loaded
-  staticDirectories: ['static', 'public'],
-
   presets: [
     [
       'classic',
@@ -89,7 +86,7 @@ const config: Config = {
           label: 'Documentation',
         },
         {
-          href: 'https://github.com/awilliamson10/2004Scape-dev',
+          href: 'https://github.com/2004Scape/Server',
           label: 'GitHub',
           position: 'right',
         },
