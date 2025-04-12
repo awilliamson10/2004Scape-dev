@@ -1,0 +1,18 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+  background-color: var(--ifm-color-primary-lightest);
+  background-image: linear-gradient(to bottom, var(--ifm-color-primary-lightest), transparent);
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.featuresTitle {
+  margin-bottom: 2rem;
+  color: var(--ifm-color-primary-darkest);
+}
