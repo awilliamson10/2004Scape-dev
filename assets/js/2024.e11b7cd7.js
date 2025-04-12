@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_2004_scape_dev=self.webpackChunk_2004_scape_dev||[]).push([[2024],{2024:(e,c,s)=>{s.d(c,{createArchitectureServices:()=>a.S});var a=s(8815);s(3579)}}]);

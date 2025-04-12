@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_2004_scape_dev=self.webpackChunk_2004_scape_dev||[]).push([[8313],{694:(e,c,s)=>{s.d(c,{createPacketServices:()=>a.$});var a=s(9923);s(3579)}}]);
