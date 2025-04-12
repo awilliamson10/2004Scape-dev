@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: '2004Scape Dev Documentation',
   tagline: 'Contributing to RuneScape 2 Emulation',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/custom_favicon.svg',
 
   // Set the production url of your site here
   url: 'https://awilliamson10.github.io',
@@ -64,7 +64,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/2004scape-social-card.jpg',
+    image: 'img/custom_social_card.svg',
     // Sidebar configuration
     docs: {
       sidebar: {
@@ -76,7 +76,7 @@ const config: Config = {
       title: '2004Scape Dev',
       logo: {
         alt: '2004Scape Logo',
-        src: 'img/logo.svg',
+        src: 'img/custom_logo.svg',
       },
       items: [
         {
