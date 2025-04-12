@@ -1,0 +1,30 @@
+name: Test deployment
+
+on:
+  pull_request:
+    branches:
+      - main
+
+# Cancel in-progress jobs on new pushes
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test-deploy:
+    name: Test deployment
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: npm
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Test build
+        run: npm run build 
