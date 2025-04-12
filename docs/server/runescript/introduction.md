@@ -8,6 +8,6 @@ RuneScript is the custom scripting language used in 2004Scape to define game con
 
 ## Coming Soon
 
-A detailed guide to RuneScript is coming soon. In the meantime, you can explore example scripts in the [2004Scape Server repository](https://github.com/2004Scape/Server/tree/main/data/scripts).
+A detailed guide to RuneScript is coming soon. In the meantime, you can explore example scripts in the [2004Scape Server repository]([https://github.com/2004Scape/Server/tree/main/data/scripts](https://github.com/2004Scape/Server/tree/main/data/src/scripts)).
 
 Check back for updates as we continue to build out our documentation. 
