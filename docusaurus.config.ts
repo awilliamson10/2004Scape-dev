@@ -50,7 +50,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/awilliamson10/2004Scape-dev/tree/main/docs/',
+            'https://github.com/awilliamson10/2004Scape-dev/edit/main',
           // Set docs as the landing page
           routeBasePath: '/',
         },
